@@ -1,0 +1,6 @@
+C:\Users\SMRUTI\source\repos\EmployeeDetails\EmployeeDetails\bin\Debug\EmployeeDetails.exe.config
+C:\Users\SMRUTI\source\repos\EmployeeDetails\EmployeeDetails\bin\Debug\EmployeeDetails.exe
+C:\Users\SMRUTI\source\repos\EmployeeDetails\EmployeeDetails\bin\Debug\EmployeeDetails.pdb
+C:\Users\SMRUTI\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\EmployeeDetails.csprojAssemblyReference.cache
+C:\Users\SMRUTI\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\EmployeeDetails.exe
+C:\Users\SMRUTI\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\EmployeeDetails.pdb
